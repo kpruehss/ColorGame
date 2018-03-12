@@ -1,7 +1,7 @@
 # ColorGame
 ## Seperate repo for the ColorGame project
 
-The original project can also be found @ kpruehss/wdbc/projects. For better organizational seperation, projects will
+The original project can also be found @ kpruehss/wdbc/Projects/colorGame. For better organizational seperation, projects will
 now have their own repos.
 
 ---
